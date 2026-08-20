@@ -81,4 +81,4 @@ Add unit tests for BST and DAO layers
 This project is open source. Feel free to use and modify it for learning purposes.
 
 👤 Author
-Developed by Devam Doshi
+Developed by Nishit Modi
