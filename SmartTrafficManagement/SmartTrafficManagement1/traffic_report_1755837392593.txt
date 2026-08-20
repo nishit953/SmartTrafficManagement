@@ -1,0 +1,28 @@
+Traffic Report - Generated at: 2025-08-22 10:06:32
+Processed Vehicles (order):
+
+Violation Summary (from DB):
+Total violations: 3
+- Jumped red light.                   : 1
+- Driving in wrong side.              : 0
+- No helmet or seatbelt.              : 0
+- Overspeeding.                       : 0
+- Drink and drive.                    : 1
+- Reckless driving.                   : 0
+- Using a mobile while driving.       : 1
+- Driving without a valid license.    : 0
+- Driving without insurance.          : 0
+- No providing a way for emergency vehicle/s. : 0
+- Overloading passengers.             : 0
+- Driving without a valid PUC.        : 0
+
+Top Offenders:
+01) 12            2 violations
+02) GJ1           1 violations
+
+Vehicle Log Summary:
+- ADDED      : 2
+- PROCESSED  : 3
+- DELETED    : 4
+
+-- End of Report --

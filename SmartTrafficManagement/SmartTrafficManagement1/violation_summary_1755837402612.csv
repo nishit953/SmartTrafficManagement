@@ -1,0 +1,13 @@
+typeCode,typeLabel,count
+1,"Jumped red light.",1
+2,"Driving in wrong side.",0
+3,"No helmet or seatbelt.",0
+4,"Overspeeding.",0
+5,"Drink and drive.",1
+6,"Reckless driving.",0
+7,"Using a mobile while driving.",1
+8,"Driving without a valid license.",0
+9,"Driving without insurance.",0
+10,"No providing a way for emergency vehicle/s.",0
+11,"Overloading passengers.",0
+12,"Driving without a valid PUC.",0
